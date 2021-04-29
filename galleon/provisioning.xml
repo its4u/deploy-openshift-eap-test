@@ -4,7 +4,7 @@
         <default-configs inherit="false"/>
         <packages inherit="false"/>
     </feature-pack>
-    <feature-pack location="com.its4u:deploy-openshift-eap-test-fp:1.0-SNAPSHOT">
+    <feature-pack location="com.its4u:deploy-openshift-eap-test-fp:0.1">
         <default-configs inherit="false"/>
         <packages inherit="false"/>
     </feature-pack>
