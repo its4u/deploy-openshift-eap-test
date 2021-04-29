@@ -1,9 +1,11 @@
 <?xml version="1.0" ?>
 <installation xmlns="urn:jboss:galleon:provisioning:3.0">
+<!--
     <feature-pack location="eap-s2i@maven(org.jboss.universe:s2i-universe)">
         <default-configs inherit="false"/>
         <packages inherit="false"/>
     </feature-pack>
+-->
     <feature-pack location="com.its4u:deploy-openshift-eap-test-fp:0.1">
         <default-configs inherit="false"/>
         <packages inherit="false"/>
